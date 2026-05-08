@@ -27,7 +27,7 @@ function processCommits(data) {
         id: commit,
 
         url:
-          'https://github.com/YOUR_USERNAME/YOUR_REPO/commit/' +
+          'https://github.com/ssirimilla/meta/commit/' +
           commit,
 
         author,
